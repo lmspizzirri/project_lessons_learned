@@ -5,15 +5,17 @@ body{
 #cabecalho{
     position: fixed;
     top: 0;
-    height: 150px;
+    height: 50px;
     background-color: green;
+    width: 100%;
     
 }
 
 #titulo{
+
     font-size: 45px;
     color: white;
-    padding: 40px 50px;
+    
 }
 
 #minhafoto{
